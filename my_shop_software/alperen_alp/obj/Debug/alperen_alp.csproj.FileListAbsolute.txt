@@ -1,0 +1,30 @@
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Vize Odevi\alperen_alp\alperen_alp\bin\Debug\alperen_alp.exe.config
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Vize Odevi\alperen_alp\alperen_alp\bin\Debug\alperen_alp.exe
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Vize Odevi\alperen_alp\alperen_alp\bin\Debug\alperen_alp.pdb
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Vize Odevi\alperen_alp\alperen_alp\obj\Debug\alperen_alp.csprojAssemblyReference.cache
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Vize Odevi\alperen_alp\alperen_alp\obj\Debug\alperen_alp.Form1.resources
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Vize Odevi\alperen_alp\alperen_alp\obj\Debug\alperen_alp.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Vize Odevi\alperen_alp\alperen_alp\obj\Debug\alperen_alp.csproj.GenerateResource.cache
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Vize Odevi\alperen_alp\alperen_alp\obj\Debug\alperen_alp.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Vize Odevi\alperen_alp\alperen_alp\obj\Debug\alperen_alp.exe
+C:\Users\Alperen\OneDrive\Belgeler\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Vize Odevi\alperen_alp\alperen_alp\obj\Debug\alperen_alp.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Vize Odevi\1.odev saglam\alperen_alp\alperen_alp\bin\Debug\alperen_alp.exe.config
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Vize Odevi\1.odev saglam\alperen_alp\alperen_alp\obj\Debug\alperen_alp.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Vize Odevi\1.odev saglam\alperen_alp\alperen_alp\obj\Debug\alperen_alp.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Vize Odevi\1.odev saglam\alperen_alp\alperen_alp\bin\Debug\alperen_alp.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Vize Odevi\1.odev saglam\alperen_alp\alperen_alp\bin\Debug\alperen_alp.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Vize Odevi\1.odev saglam\alperen_alp\alperen_alp\obj\Debug\alperen_alp.csprojResolveAssemblyReference.cache
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Vize Odevi\1.odev saglam\alperen_alp\alperen_alp\obj\Debug\alperen_alp.Form1.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Vize Odevi\1.odev saglam\alperen_alp\alperen_alp\obj\Debug\alperen_alp.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Vize Odevi\1.odev saglam\alperen_alp\alperen_alp\obj\Debug\alperen_alp.csproj.GenerateResource.Cache
+C:\Users\Alperen\Desktop\Yeni klasör\alperen_alp\alperen_alp\bin\Debug\alperen_alp.exe.config
+C:\Users\Alperen\Desktop\Yeni klasör\alperen_alp\alperen_alp\bin\Debug\alperen_alp.exe
+C:\Users\Alperen\Desktop\Yeni klasör\alperen_alp\alperen_alp\bin\Debug\alperen_alp.pdb
+C:\Users\Alperen\Desktop\Yeni klasör\alperen_alp\alperen_alp\obj\Debug\alperen_alp.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Yeni klasör\alperen_alp\alperen_alp\obj\Debug\alperen_alp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alperen\Desktop\Yeni klasör\alperen_alp\alperen_alp\obj\Debug\alperen_alp.Form1.resources
+C:\Users\Alperen\Desktop\Yeni klasör\alperen_alp\alperen_alp\obj\Debug\alperen_alp.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Yeni klasör\alperen_alp\alperen_alp\obj\Debug\alperen_alp.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Yeni klasör\alperen_alp\alperen_alp\obj\Debug\alperen_alp.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Yeni klasör\alperen_alp\alperen_alp\obj\Debug\alperen_alp.exe
+C:\Users\Alperen\Desktop\Yeni klasör\alperen_alp\alperen_alp\obj\Debug\alperen_alp.pdb
